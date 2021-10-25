@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Script permettant l'installation de Keystone sur le Noeud de contrôle
+# Test de git
 
 db_name=keystone
 db_user=keystone
